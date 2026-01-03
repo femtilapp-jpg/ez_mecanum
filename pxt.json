@@ -1,19 +1,8 @@
 {
-    "name": "keyestudio_mecanum_no",
-    "version": "0.1.1",
-    "description": "Barnevennlige norske MakeCode blokker for Keyestudio 4WD Mecanum robot",
-    "dependencies": {
-        "core": "*",
-        "pxt-mecanum-robot-V2": "github:keyestudio2019/mecanum_robot_v2"
-    },
-    "files": [
-        "core.ts",
-        "drive.ts",
-        "sensors.ts",
-        "servo.ts",
-        "README.md"
-    ],
-    "public": true,
+    "name": "this",
+    "description": "Syntaksfeil i pxt.json",
+    "dependencies": {},
+    "files": [],
     "targetVersions": {
         "target": "8.0.18",
         "targetId": "microbit"
