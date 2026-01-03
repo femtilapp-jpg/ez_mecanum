@@ -6,8 +6,6 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.6.12",
-        "bluetooth": "github:microsoft/pxt-bluetooth",
         "pxt-mecanum-robot-V2": "github:keyestudio2019/mecanum_robot_v2"
     },
     "files": [
@@ -15,7 +13,6 @@
         "drive.ts",
         "sensors.ts",
         "servo.ts",
-        "ir.ts",
         "README.md"
     ],
     "public": true,
