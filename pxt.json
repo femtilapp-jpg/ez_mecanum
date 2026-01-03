@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "pxt-mecanum-robot-V2": "github:keyestudio2019/mecanum_robot_v2",
-        "IrRemote": "github:mworkfun/pxt-IRremote"
+        "makerbit-ir-receiver": "github:1010Technologies/pxt-makerbit-ir-receiver"
     },
     "files": [
         "core.ts",
