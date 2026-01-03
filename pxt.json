@@ -11,6 +11,7 @@
         "drive.ts",
         "sensors.ts",
         "servo.ts",
+        "ir.ts"
         "README.md"
     ],
     "public": true,
