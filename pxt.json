@@ -4,7 +4,8 @@
     "description": "Barnevennlige norske MakeCode blokker for Keyestudio 4WD Mecanum robot",
     "dependencies": {
         "core": "*",
-        "pxt-mecanum-robot-V2": "github:keyestudio2019/mecanum_robot_v2"
+        "pxt-mecanum-robot-V2": "github:keyestudio2019/mecanum_robot_v2",
+        "neopixel": "*"
     },
     "files": [
         "core.ts",
